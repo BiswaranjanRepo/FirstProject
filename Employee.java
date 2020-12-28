@@ -1,2 +1,3 @@
 class Employe{
+	int id;
 }
